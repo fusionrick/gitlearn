@@ -1,0 +1,35 @@
+<div itemtype itemscope="http://schema.org/SelfStorage" class="mid fl">
+
+	<h1 itemprop="name">Self Storage South Carolina</h1>
+	<h2 itemprop="description">We have 2 Self Storage Locations In South Carolina.</h2>
+
+	<p>
+	<select class="city_filter" name="city" id="city"><option selected="selected" value="">- filter by city -</option><option value="Greenville">Greenville</option></select>
+	</p>
+  
+	<div class="hr dashed"></div>            
+	<div class="results">
+
+	<div itemprop="location" class="result default" data-city="Greenville">
+		<a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc/"><img src="/img/DSC_2286665c-1.jpg" itemprop="photos" class="image" alt="SecurCare Self Storage - Boulder, Arapahoe Avenue"></a>
+		<p><strong><a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc/">Greenville - 1412 Poinsett Highway</a></strong> <span class="small"></span><br>
+		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			<span itemprop="streetAddress">1412 Poinsett Highway</span>
+			<span itemprop="addressLocality">Greenville</span>, <span="addressRegion">SC</span> <span itemprop="postalCode">29609</span><br>
+		</div>
+		<span itemprop="telephone" class="strong darkbrown">864-932-4294</span><br>
+		<a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc/" class="small">More about this location</a> »</p>
+	</div>
+
+	<div itemprop="location" class="result default" data-city="Greenville">
+		<a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc-1/"><img src="/img/Greenville_0053f13-1.jpg" itemprop="photos" class="image" alt="SecurCare Self Storage - Boulder, Arapahoe Avenue"></a>
+		<p><strong><a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc-1/">Greenville - 2815 White Horse Road</a></strong> <span class="small"></span><br>
+		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			<span itemprop="streetAddress">2815 White Horse Road</span>
+			<span itemprop="addressLocality">Greenville</span>, <span="addressRegion">SC</span> <span itemprop="postalCode">29611</span><br>
+		</div>
+		<span itemprop="telephone" class="strong darkbrown">864-932-4296</span><br>
+		<a itemprop="url" href="/self-storage-locations/self-storage-greenville-sc-1/" class="small">More about this location</a> »</p>
+	</div>
+
+</div>
