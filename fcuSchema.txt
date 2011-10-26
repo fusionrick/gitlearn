@@ -1,0 +1,41 @@
+<div itemscope itemtype="http://schema.org/BankOrCreditUnion">
+	<h1>American Fictional Credit Union</h1>
+
+	<h2 itemprop="name">Denver Branch</h2>
+	<img src="denver-branch.jpg" itemprop="image">
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">99 Financial Ln</span>
+		<span itemprop="addressLocality">Denver, CO
+		<span itemprop="postalCode">80212</span>
+	<div>
+
+	Telephone: <span itemprop="telephone">(123) 456-7890</span>
+	Fax:  <span itemprop="faxNumber">(123) 456-7891</span>
+	Email: <span itemprop="email">contactdenver@afcu.com</span>
+
+	<span>Lobby Hours:</span>
+	<div itemprop="openingHours" content="Mo-Fr 8:00-15:30">Monday: 8:00 - 3:30<br />
+	Tuesday: 8:00 - 3:30<br />
+	Wednesday: 8:00 - 3:30<br />
+	Thursday: 8:00 - 3:30<br />
+	Friday:	8:00 - 3:30</div>
+
+	<h2 itemprop="name">Boulder Branch</h2>
+	<img src="denver-branch.jpg" itemprop="image">
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">99 Financial Ln</span>
+		<span itemprop="addressLocality">Boulder, CO
+		<span itemprop="postalCode">80303</span>
+	<div>
+
+	Telephone: <span itemprop="telephone">(123) 456-7890</span>
+	Fax:  <span itemprop="faxNumber">(123) 456-7891</span>
+	Email: <span itemprop="email">contactboulder@afcu.com</span>
+
+	<span>Lobby Hours:</span>
+	<div itemprop="openingHours" content="Mo-Fr 8:00-15:30">Monday: 8:00 - 3:30<br />
+	Tuesday: 8:00 - 3:30<br />
+	Wednesday: 8:00 - 3:30<br />
+	Thursday: 8:00 - 3:30<br />
+	Friday:	8:00 - 3:30</div>
+</div>
